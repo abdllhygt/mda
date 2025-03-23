@@ -1,0 +1,194 @@
+.mda-content h1 {
+    font-size: 1.5rem;
+    text-align: center;
+    margin-bottom: 0.6em;
+}
+
+.mda-content h1 span {
+    font-size: 0.5em;
+}
+
+.mda-content h2 {
+    font-size: 1.3rem;
+    margin-left: 1rem;
+    margin-bottom: 0.4em;
+}
+
+.mda-content a:hover {
+    cursor: pointer;
+}
+
+.mda-content p {
+    text-indent: 1em;
+    margin-bottom: 0.5em;
+}
+
+.mda-content img {
+    height: 15em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0.5em;
+}
+
+.mda-content ol, .mda-content ul {
+    margin-left: 2em;
+    margin-bottom: 0.5em;
+}
+
+.mda-content ol li {
+    list-style-type: decimal;
+}
+
+.mda-content ul li {
+    list-style-type: disc;
+}
+
+.info {
+    padding: 1em;
+    background-color: #7ed9f8;
+    color: #2f2222;
+    margin-bottom: 1.1em;
+    font-size: 0.8rem;
+}
+
+.warning {
+    padding: 1em;
+    background-color: #ffff68;
+    color: #2f2222;
+    margin-bottom: 1.1em;
+    font-size: 0.8rem;
+}
+
+.question {
+    padding: 1em;
+    background-color: #ffdcf3;
+    color: #2f2222;
+    margin-bottom: 0.5em;
+    font-size: 0.8rem;
+}
+
+.info h3, .warning h3, .question h3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.warning h3 {
+    color: red;
+}
+
+.icon-size {
+    height: 3rem;
+    width: 3rem;
+}
+
+.mda-content table {
+    margin-bottom: 1.1em;
+    background-color: rgb(200, 255, 158);
+    border-radius: 10px;
+    margin-left: 2em;
+}
+
+.mda-content th {
+    background-color: rgb(113, 171, 91);
+    color: rgb(242, 255, 233);
+    text-align: center;
+    padding: 0.3em;
+    font-size: 1.1rem;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-right: 1em;
+    padding-left: 1em;
+}
+
+.mda-content td {
+    padding: 0.3em;
+    padding-right: 1em;
+    padding-left: 1em;
+    text-align: center;
+    border-style: solid none none none;
+    border-color: rgb(189, 234, 171);
+    border-width: 1px;
+}
+
+.sentence {
+    text-align: center;
+    margin-bottom: 1.1em;
+}
+
+.first-sentence {
+    font-size: 1.5rem;
+}
+
+.sub-sentence {
+    font-size: 1.1rem;
+    font-style: italic;
+}
+
+.dialog {
+    padding: 1rem;
+    background-color: rgb(150, 255, 150);
+    border-radius: 5px;
+    margin-bottom: 1.1em;
+}
+
+.left-dialog-block {
+    padding: 0.4rem;
+    background-color: rgb(253, 255, 240);
+    margin-right: 5rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+}
+
+.right-dialog-block {
+    padding: 0.4rem;
+    background-color: rgb(255, 222, 222);
+    margin-left: 5rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+}
+
+
+.audio-text {
+    color: rgb(4, 4, 173);
+}
+
+.audio-text:hover {
+    color: rgb(160, 165, 0);
+}
+
+
+.red-text, .color1-text {
+    color: red;
+}
+
+.green-text, .color2-text {
+    color: green;
+}
+
+.blue-text, .color3-text {
+    color: blue;
+}
+
+.yellow-text, .color4-text {
+    color: yellow;
+}
+
+.orange-text, .color5-text {
+    color: orange;
+}
+
+.purple-text, .color6-text {
+    color: purple;
+}
+
+.pink-text, .color7-text {
+    color: pink;
+}
+
+.brown-text, .color8-text {
+    color: brown;
+}
+
+.grey-text, .color9-text {
+    color: grey;
+}
